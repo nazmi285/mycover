@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.msnphp",
+      "sha256_cert_fingerprints": ["FD:B5:2C:09:F7:50:99:33:51:5A:84:51:A9:69:BB:C0:A9:74:12:FA:C2:9B:27:E2:9E:4D:0C:98:FC:56:90:F4"]
+    }
+  }
+]
